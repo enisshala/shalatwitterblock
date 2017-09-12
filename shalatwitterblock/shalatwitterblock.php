@@ -14,7 +14,7 @@ class shalatwitterblock extends Module
 		$this->tab = 'front_office_features';
 		$this->version = '1.0';
 		$this->author = 'Enis Shala';
-		$this->ps_versions_compliancy = array('min' => '1.5', 'max' => _PS_VERSION_);
+		$this->ps_versions_compliancy = array('min' => '1.5', 'max' => '1.6');
 
 		$this->need_instance = 0;
 		$this->bootstrap = true;
